@@ -13,3 +13,4 @@ Here are some open positions:
 - SDE C#, navigation team: https://gist.github.com/sergey-sw/3d9f87b8e489eae4d7367bb18b10a8cf
 - SDE Python, metrics team: https://gist.github.com/sergey-sw/e563de78e8207f05c27cfa19a40057e9
 - QA automation, Python/C#: https://gist.github.com/sergey-sw/a4ad8d395e565a271f5aa2f5ff8f3e0f
+- SERP asessor: https://gist.github.com/sergey-sw/771ca0ae377ec50d42e735851c20670b
