@@ -6,7 +6,7 @@ I'm a software engineer mostly experienced in backend development: Java/Kotlin/.
 Now I'm leading search team at Ozon - leading ecommerce marketplace in Russia. It has quite a few people and we are still hiring.
 We are responsible for indexing, ranking, suggests, spellchecking, analytics, navigation and, of course, search.
 
-Here's a list of vacancies you can apply:
+Here are some open positions:
 - Lead Product Manager: https://gist.github.com/sergey-sw/10362a62a61187e6f29dec7eb7710357
 - SDE, runtime team: https://gist.github.com/sergey-sw/daf7901bd5685ee61128c8637a1ead65
 - SDE, indexer team: https://gist.github.com/sergey-sw/4c63fe728b63772f5f5bedcc17a2bad7
