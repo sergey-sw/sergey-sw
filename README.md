@@ -8,6 +8,7 @@ We are responsible for indexing, ranking, suggests, spellchecking, analytics, na
 
 Here are some open positions:
 - Lead Product Manager: https://gist.github.com/sergey-sw/10362a62a61187e6f29dec7eb7710357
+- DS, ranking team: https://gist.github.com/sergey-sw/ad5ee8752585223ffa028080f5f06f1c
 - SDE Java, runtime team: https://gist.github.com/sergey-sw/5330004faa197bf53215b0923a441178
 - SDE C#, indexer team: https://gist.github.com/sergey-sw/4c63fe728b63772f5f5bedcc17a2bad7
 - SDE C#, navigation team: https://gist.github.com/sergey-sw/3d9f87b8e489eae4d7367bb18b10a8cf
