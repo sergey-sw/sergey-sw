@@ -7,7 +7,6 @@ Now I'm leading search team at Ozon - popular ecommerce marketplace in Russia. I
 We are responsible for indexing, ranking, suggests, spellchecking, analytics, navigation and, of course, search.
 
 Here are some open positions:
-- Lead Product Manager: https://gist.github.com/sergey-sw/10362a62a61187e6f29dec7eb7710357
 - Project Manager: https://gist.github.com/sergey-sw/3f65cd58cc64b10a1a8ec2c82d12d860
 - DS, ranking team: https://gist.github.com/sergey-sw/ad5ee8752585223ffa028080f5f06f1c
 - SDE Java, runtime team: https://gist.github.com/sergey-sw/5330004faa197bf53215b0923a441178
@@ -17,4 +16,3 @@ Here are some open positions:
 - SDE Python, metrics team: https://gist.github.com/sergey-sw/e563de78e8207f05c27cfa19a40057e9
 - Lead Analyst, analytics team: https://gist.github.com/sergey-sw/6de3022d21e09f4bffdc3c1853d1b3e1
 - QA automation, Python/C#: https://gist.github.com/sergey-sw/a4ad8d395e565a271f5aa2f5ff8f3e0f
-- SERP asessor: https://gist.github.com/sergey-sw/771ca0ae377ec50d42e735851c20670b
