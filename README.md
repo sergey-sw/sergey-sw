@@ -16,3 +16,5 @@ Here are some open positions:
 - SDE Python, metrics team: https://gist.github.com/sergey-sw/e563de78e8207f05c27cfa19a40057e9
 - Lead Analyst, analytics team: https://gist.github.com/sergey-sw/6de3022d21e09f4bffdc3c1853d1b3e1
 - QA automation, Python/C#: https://gist.github.com/sergey-sw/a4ad8d395e565a271f5aa2f5ff8f3e0f
+
+![i++](https://visitor-badge.glitch.me/badge?page_id=sergey-sw.sergey-sw)
