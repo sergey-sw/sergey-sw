@@ -3,7 +3,7 @@ Hello 👋 for humans and web 🕷️ crawlers!
 I'm a software engineer mostly experienced in backend development: Java/Kotlin/.NET/Python, Big Data and Distributed Systems.
 
 
-Now I'm leading search team at Ozon - popular ecommerce marketplace in Russia. We are responsible for indexing, ranking, suggests, spellchecking, analytics, navigation and, of course, search.
+Now I'm leading [Search, Ads, RecSys] department at Ozon - popular ecommerce marketplace in Russia.
 
 <hr/>
 
