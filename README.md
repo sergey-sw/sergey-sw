@@ -1,6 +1,6 @@
 Hello 👋 for humans and web 🕷️ crawlers!
 
-I'm an engineering leader with 10+ years of experience in tech industry. My career path started in software development (backend systems, java, system design, big data, highload) and gradually shifted into tech management. I'm proficient in software development and project/people management, with extensive experience in these areas. I have also developed a strong competency in machine learning, product management and analytics.
+I'm an engineering leader with 10+ years of experience in tech industry. My career path started in software development (backend systems, java, system design, big data, highload, distributed systems) and gradually shifted into tech management. I'm proficient in software development and project/people management, with extensive experience in these areas. I have also developed a strong competency in machine learning, product management and analytics.
 
 Now I am leading [Search, Ads, RecSys] department at [Ozon](https://www.ozon.ru/) — popular ecommerce marketplace in Russia.
 
